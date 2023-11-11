@@ -47,3 +47,7 @@ p, ul, ol {
     color: rgb(190, 190, 190
     );
 }
+
+ul, ol {
+    list-style: none;
+}
